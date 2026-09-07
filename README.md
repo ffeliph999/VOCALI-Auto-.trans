@@ -6,7 +6,7 @@ Criado por **Felipe Souza (Otomi Kazuo)**.
 
 ## O que faz
 
-Lê todos os arquivos `.wav` da pasta onde está o executável, separa os tokens fonéticos do nome do arquivo (separados por `_`), aplica a divisão silábica (CVVC, VCV ou Híbrido) e as substituições fonéticas necessárias (SAMPA), e gera um arquivo `.trans` correspondente para cada `.wav`.
+Lê todos os arquivos `.wav` da pasta onde está o executável, separa os tokens fonéticos do nome do arquivo (separados por `_`), aplica a divisão silábica (CVVC, VCV ou Híbrido) e as substituições fonéticas necessárias (SAMPA), e gera um arquivo `.trans` correspondente para cada `.wav`, isso funciona somente para os tipos fonéticos Articulations do vocaloid, os stationary ainda precisam ser criados manualmente, o que não é um problema, pois são apenas um conjunto de 6 arquivos trans de vogais estáticas.
 
 ## Como usar
 
